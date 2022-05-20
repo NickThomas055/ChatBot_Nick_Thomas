@@ -1,0 +1,18 @@
+{ "answers" :[
+    
+    {"intent":"Führerscheinklassen", "answer":"x"},
+    {"intent":"Motorradführerschein", "answer" : "wiiiummm"},
+    {"intent":"Autos", "answer":"Unsere Flotte besteht aus 2xGolf VII und 1xGolf VIII, außerdem bieten wir für den Automatikführerschein einen Golf Plus an."},
+    {"intent":"Kosten", "answer":"Unsere aktuelle Preisliste erfahrt ihr telefonisch unter 0171 6053279 oder persönlich zu den Bürozeiten in der Fahrschule."},
+    {"intent":"App", "answer":"Ihr könnt bei uns den Aktivierungscode für die Theo-App zur Vorbereitung auf die Theorieprüfung bekommen. 30 Tage kosten 20€ und 90 Tage kosten 30€"},
+    {"intent":"Antrag", "answer":"Das Antragsformular auf Erteilung-und-Erweiterung einer Fahrerlaubnis erhaltet ihr bei uns. Diesen Antrag gebt ihr dann ausgefüllt zusammen mit einem Akutellem Sehtest, einem Biometrischem Passbild und der Teilnahmebescheinigung am Erste-Hilfe-Kurs auf dem Rathaus eures Wohnortes ab."},
+    {"intent":"Theorieunterricht", "answer":"Der Theorieunterricht findet immer Montags, Dienstags, Mittwochs und Donnerstags ab 19:00Uhr online statt. Den Zugangslink erhaltet ihr direkt nach der Anmeldung bei uns in der Fahrschule. Der Unterricht für Klasse A (Motorrad) findet immer Dienstags ab 20Uhr statt."},
+    {"intent":"Öffnungszeiten", "answer":"Unsere Bürozeiten sind Dienstag und Donnerstag 17:00-19:00Uhr ins Stockach am Hochgericht 37 und Mittwochs von 17:00-19:00Uhr in Wahlwies Leonhardtstraße 1."},
+    {"intent":"Begrüßung", "answer":"Hey, wie kann ich helfen?"},
+    {"intent":"Verabschiedung", "answer":"Immer wieder gerne!"},
+    {"intent":"None", "answer":"*Grillenzirpen*"},
+    {"intent":"Danke", "answer":"Nichts zu danken, dafür existiere ich! :)"},
+    {"intent":"Klassenübersicht", "answer":"Es gibt Folgende Führerscheine bei unserer Fahrschule: B, B17 und BE(Anhänger) sind Autoführerscheine. A1, A2, Adirekt sind Motorradführerscheine. L ist ein führerschein für kleine Traktoren. B196(Motorrad mit Autoführerschein) und B197(Automatikführerschein) sind Extraregelungen. Zudem gibt es noch den Mofaführerschein. Über welchen willst du etwas wissen? (bitte nur Klasse eingeben)"}
+   
+    ]
+    }
